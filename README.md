@@ -2,7 +2,7 @@
 - 👀 I’m interested in webb apps
 - 🌱 I’m currently learning front-end
 - <p></p>
-  <img src="https://icons8.com/icon/zRvbzAjx4VWY/html-5" alt="HTML5">
+  <img src="https://icons8.com/icon/zRvbzAjx4VWY/html-5" alt="HTML5"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apewona"/>
   
 <!---

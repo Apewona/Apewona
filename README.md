@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/MahmudX/awesome-maui/main/dotnet_bot.svg" alt="MAUI" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C#" width="40" height="40">
   <img src="https://user-images.githubusercontent.com/16964652/66596008-f4e3ed80-eb50-11e9-9a8a-3e9a5adf4d7c.png" alt="XAML" width="40" height="40">
-  <h2>🛠 Languages and Tools :</h2>
+  <h2>🛠 Known Languages and Tools :</h2>
   <p></p>
   <p></p>
   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VSC" width="40" height="40">

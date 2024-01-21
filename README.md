@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Apewona
 - 👀 I’m interested in webb apps, embeded solutions, control theory, machine learning and stochastic algorithms
-- 🌱 I’m currently learning front-end
-  <h3>🛠 Languages and Tools :</h3>
+  <h2>🌱 I’m currently learning and probably stay for a while at:</h2>
+  <img src="https://raw.githubusercontent.com/MahmudX/awesome-maui/main/dotnet_bot.svg" alt="MAUI" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C#" width="40" height="40">
+  <h2>🛠 Languages and Tools :</h2>
   <p></p>
   <p></p>
   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VSC" width="40" height="40">
@@ -24,7 +26,7 @@
   <p></p>
   <p></p>
   
-  <h3>🔥 Statistics :</h3>
+  <h2>🔥 Statistics :</h2>
   <img alt="Apewona streak" src="http://github-readme-streak-stats.herokuapp.com?user=Apewona&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
   <img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=Apewona&theme=nord&title=MultiLanguage,Commits,Followers,Stars&no-frame=true&margin-w=18"/>
   <img alt="Apewona's Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Apewona&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs"/>

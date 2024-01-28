@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Apewona
+- 👋 Hi, I’m Dawid
 - 👀 I’m interested in .net maui, embeded solutions, control theory, machine learning and stochastic algorithms
   <h2>🌱 I’m currently learning and probably stay for a while at:</h2>
   <img src="https://raw.githubusercontent.com/MahmudX/awesome-maui/main/dotnet_bot.svg" alt="MAUI" width="40" height="40">

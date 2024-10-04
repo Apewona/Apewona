@@ -17,7 +17,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Microchip-Logo.svg" alt="MicroChipStudio" width="60" height="40">
   <img src="https://iconape.com/wp-content/files/wm/349495/png/mplab-x-ide-logo.png" alt="MPLab" width="40" height="40">
-  <img src="https://blog.mbedded.ninja/programming/integrated-development-environments-ides/stm32cubeide/stm32-cube-ide-logo.png" alt="STMCube" width="60" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" alt="Arduino" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40">

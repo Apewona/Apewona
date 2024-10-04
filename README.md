@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Dawid
 - 👀 I’m interested in .net maui, embeded solutions, control theory, machine learning and stochastic algorithms
   <h2>🌱 I’m currently learning and probably stay for a while at:</h2>
-  <img src="https://raw.githubusercontent.com/MahmudX/awesome-maui/main/dotnet_bot.svg" alt="MAUI" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C#" width="40" height="40">
-  <img src="https://user-images.githubusercontent.com/16964652/66596008-f4e3ed80-eb50-11e9-9a8a-3e9a5adf4d7c.png" alt="XAML" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40">
   <h2>🛠 Known Languages and Tools :</h2>
   <p></p>
   <p></p>
@@ -18,9 +16,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Microchip-Logo.svg" alt="MicroChipStudio" width="60" height="40">
   <img src="https://iconape.com/wp-content/files/wm/349495/png/mplab-x-ide-logo.png" alt="MPLab" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" alt="Arduino" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/AssemblyScript_logo_2020.svg" alt="C" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/MahmudX/awesome-maui/main/dotnet_bot.svg" alt="MAUI" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C#" width="40" height="40">
+  <img src="https://user-images.githubusercontent.com/16964652/66596008-f4e3ed80-eb50-11e9-9a8a-3e9a5adf4d7c.png" alt="XAML" width="40" height="40">
   <p></p>
   <img alt="Apewona Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Apewona&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E" height="198px"/>
   <p></p>

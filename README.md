@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dawid
 - 👀 I’m interested in fractional calculus, embeded solutions, control theory, machine learning and stochastic algorithms
-  <h2>🌱 I’m currently learning and probably stay for a while at:</h2>
+  <h2>🌱 I’m currently working in:</h2>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40">
   <h2>🛠 Known Languages and Tools :</h2>
   <p></p>

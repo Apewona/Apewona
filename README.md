@@ -32,6 +32,7 @@
   <img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=Apewona&theme=nord&title=MultiLanguage,Commits,Followers,Stars&no-frame=true&margin-w=18"/>
   <h2>📝 Papers and others:</h2>
   	[1] Ostaszewicz D, Rogowski K. Application of Genetic Algorithms for Strejc Model Parameter Tuning. Electronics. 2024; 13(18):3652. https://doi.org/10.3390/electronics13183652
+   
     [2] Ostaszewicz D. Bachelor's Thesis in Engineering. Utilizing Genetic Algorithms for the Optimization of a Voltage step-down DC/DC Converter. 2024.
 <!---
 Apewona/Apewona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

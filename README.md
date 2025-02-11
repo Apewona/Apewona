@@ -30,9 +30,9 @@
   <h2>🔥 Statistics :</h2>
   <img alt="Apewona streak" src="http://github-readme-streak-stats.herokuapp.com?user=Apewona&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
   <img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=Apewona&theme=nord&title=MultiLanguage,Commits,Followers,Stars&no-frame=true&margin-w=18"/>
-  <h2>📝 Papers:</h2>
+  <h2>📝 Papers and others:</h2>
   	[1] Ostaszewicz D, Rogowski K. Application of Genetic Algorithms for Strejc Model Parameter Tuning. Electronics. 2024; 13(18):3652. https://doi.org/10.3390/electronics13183652
-  
+    [2] Ostaszewicz D. Bachelor's Thesis in Engineering. Utilizing Genetic Algorithms for the Optimization of a Voltage step-down DC/DC Converter. 2024.
 <!---
 Apewona/Apewona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -41,6 +41,7 @@
   	[4] Ostaszewicz D, Rogowski K. Application of Genetic Algorithms for Strejc Model Parameter Tuning. Electronics. 2024; 13(18):3652. https://doi.org/10.3390/electronics13183652
    
     [5] Ostaszewicz D. Bachelor's Thesis in Electrical Engineering. Utilizing Genetic Algorithms for the Optimization of a Voltage step-down DC/DC Converter. Bialystok University of Technology. 2024.
+    https://github.com/Apewona/Bachelor-s-Thesis-Dawid.-GA-step-down-DC-DC-Converter
 <!---
 Apewona/Apewona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

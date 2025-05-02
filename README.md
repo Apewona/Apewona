@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Dawid
 - 👀 I’m interested in fractional calculus, embeded solutions, control theory, machine learning and stochastic algorithms
+- Since April 2024, I have been working in a research team at Bialystok University of Technology focused on the application of fractional calculus and switched systems.
   <h2>🌱 I’m currently working in:</h2>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" alt="Matlab" width="40" height="40">

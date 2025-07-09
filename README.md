@@ -37,6 +37,7 @@
     [2] Ostaszewicz D. Empirical Optimal Method for Lyapunov Function Synthesis of Fractional-Order Systems. 2nd International Young Researchers Conference. Bialystok. 2025. 
   
     [3] Ostaszewicz D. Master's Thesis in Automatic Control and Robotics Engineering. Comparative analysis of Lyapunov function trajectories in integer-order and fractional-order dynamic systems. Bialystok University of Technology. 2025.
+    https://github.com/Apewona/Master-s-Thesis-Fractional-Lyapunov
   
   	[4] Ostaszewicz D, Rogowski K. Application of Genetic Algorithms for Strejc Model Parameter Tuning. Electronics. 2024; 13(18):3652. https://doi.org/10.3390/electronics13183652
    

@@ -33,6 +33,7 @@
   <img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=Apewona&theme=nord&title=MultiLanguage,Commits,Followers,Stars&no-frame=true&margin-w=18"/>
   <h2>📝 Papers and others:</h2>
     [0] Ostaszewicz D. PhD thesis. Analysis of the Impact of Delays on Fractional-Order Control Systems - work in progress
+    
     [1] Ostaszewicz D., "Stabilization Algorithm for Fractional Linear Second-Order Switching Systems," 2025 29th International Conference on Methods and Models in Automation and Robotics (MMAR), Miedzyzdroje, Poland, 2025, pp. 183-188,. https://doi.org/10.1109/MMAR65820.2025.11150847
   
     [2] Ostaszewicz D. Empirical Optimal Method for Lyapunov Function Synthesis of Fractional-Order Systems. 2nd International Young Researchers Conference. Bialystok. 2025. 

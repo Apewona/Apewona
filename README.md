@@ -32,7 +32,7 @@
   <img alt="Apewona streak" src="http://github-readme-streak-stats.herokuapp.com?user=Apewona&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
   <img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=Apewona&theme=nord&title=MultiLanguage,Commits,Followers,Stars&no-frame=true&margin-w=18"/>
   <h2>📝 Papers and others:</h2>
-    [1] Ostaszewicz D. Stabilization Algorithm for Fractional Linear Second-Order Switching Systems. 29th International Conference on Methods and Models in Automation and Robotics. Międzyzdroje, Poland. 2025.
+    [1] Ostaszewicz D. Stabilization Algorithm for Fractional Linear Second-Order Switching Systems. 29th International Conference on Methods and Models in Automation and Robotics. Międzyzdroje, Poland. 2025. https://doi.org/10.1109/MMAR65820.2025.11150847
   
     [2] Ostaszewicz D. Empirical Optimal Method for Lyapunov Function Synthesis of Fractional-Order Systems. 2nd International Young Researchers Conference. Bialystok. 2025. 
   

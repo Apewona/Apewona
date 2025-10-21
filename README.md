@@ -31,8 +31,11 @@
   <h2>🔥 Statistics :</h2>
   <img alt="Apewona streak" src="http://github-readme-streak-stats.herokuapp.com?user=Apewona&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
   <img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=Apewona&theme=nord&title=MultiLanguage,Commits,Followers,Stars&no-frame=true&margin-w=18"/>
-  <h2>🎓 Academic profile:</h2>
-  https://bazawiedzy.pb.edu.pl/info/author/BUTe33c2e269ea24312b1c6517a5c3c4fab?r=author&tab=&title=Profil%2Bosoby%2B%25E2%2580%2593%2BDawid%2BOstaszewicz%2B%25E2%2580%2593%2BPolitechnika%2BBia%25C5%2582ostocka&lang=pl
+  <h2> 🎓 Academic profile </h2>
+  
+  <a href="https://bazawiedzy.pb.edu.pl/info/author/BUTe33c2e269ea24312b1c6517a5c3c4fab?r=author&tab=&title=Profil%2Bosoby%2B%25E2%2580%2593%2BDawid%2BOstaszewicz%2B%25E2%2580%2593%2BPolitechnika%2BBia%25C5%2582ostocka&lang=pl"         target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20my%20academic%20profile-blue?style=for-the-badge&logo=readthedocs" alt="Academic profile"/>
+  </a>
   <h2>📝 Papers and others:</h2>
     [0] Ostaszewicz D. PhD thesis. Analysis of Delay Effects on the Dynamic Properties of Fractional-Order Control Systems - work in progress
     

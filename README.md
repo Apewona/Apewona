@@ -37,18 +37,23 @@
     <img src="https://img.shields.io/badge/Visit%20my%20academic%20profile-blue?style=for-the-badge&logo=readthedocs" alt="Academic profile"/>
   </a>
   <h2>📝 Papers and others:</h2>
-    [0] Ostaszewicz D. PhD thesis. Analysis of Delay Effects on the Dynamic Properties of Fractional-Order Control Systems - work in progress
+    [1] Ostaszewicz D. PhD thesis. Analysis of Delay Effects on the Dynamic Properties of Fractional-Order Control Systems - work in progress
     
-    [1] Ostaszewicz D., "Stabilization Algorithm for Fractional Linear Second-Order Switching Systems," 2025 29th International Conference on Methods and Models in Automation and Robotics (MMAR), Miedzyzdroje, Poland, 2025, pp. 183-188,. https://doi.org/10.1109/MMAR65820.2025.11150847
+    [2] Ostaszewicz D., "Stabilization Algorithm for Fractional Linear Second-Order Switching Systems," 2025 29th International Conference on Methods and Models in Automation and Robotics (MMAR), Miedzyzdroje, Poland, 2025, pp. 183-188,.
+
+    https://doi.org/10.1109/MMAR65820.2025.11150847
   
-    [2] Ostaszewicz D. Empirical Optimal Method for Lyapunov Function Synthesis of Fractional-Order Systems. 2nd International Young Researchers Conference. Bialystok. 2025. 
+    [3] Ostaszewicz D. Empirical Optimal Method for Lyapunov Function Synthesis of Fractional-Order Systems. 2nd International Young Researchers Conference. Bialystok. 2025. 
   
-    [3] Ostaszewicz D. Master's Thesis in Automatic Control and Robotics Engineering. Comparative analysis of Lyapunov function trajectories in integer-order and fractional-order dynamic systems. Bialystok University of Technology. 2025.
+    [4] Ostaszewicz D. Master's Thesis in Automatic Control and Robotics Engineering. Comparative analysis of Lyapunov function trajectories in integer-order and fractional-order dynamic systems. Bialystok University of Technology. 2025.
+
     https://github.com/Apewona/Master-s-Thesis-Fractional-Lyapunov
   
-  	[4] Ostaszewicz Dawid, Rogowski Krzysztof, Electronics (Switzerland), 2024, vol. 13, nr 18, s.1-13,. https://doi.org/10.3390/electronics13183652
+  	[5] Ostaszewicz Dawid, Rogowski Krzysztof, Electronics (Switzerland), 2024, vol. 13, nr 18, s.1-13,.
+
+    https://doi.org/10.3390/electronics13183652
    
-    [5] Ostaszewicz D. Bachelor's Thesis in Electrical Engineering. Utilizing Genetic Algorithms for the Optimization of a Voltage step-down DC/DC Converter. Bialystok University of Technology. 2024.
+    [6] Ostaszewicz D. Bachelor's Thesis in Electrical Engineering. Utilizing Genetic Algorithms for the Optimization of a Voltage step-down DC/DC Converter. Bialystok University of Technology. 2024.
     https://github.com/Apewona/Bachelor-s-Thesis-Dawid.-GA-step-down-DC-DC-Converter
 <!---
 Apewona/Apewona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

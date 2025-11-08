@@ -46,7 +46,7 @@
     [3] Ostaszewicz D. Master's Thesis in Automatic Control and Robotics Engineering. Comparative analysis of Lyapunov function trajectories in integer-order and fractional-order dynamic systems. Bialystok University of Technology. 2025.
     https://github.com/Apewona/Master-s-Thesis-Fractional-Lyapunov
   
-  	[4] Ostaszewicz D, Rogowski K. Application of Genetic Algorithms for Strejc Model Parameter Tuning. Electronics. 2024; 13(18):3652. https://doi.org/10.3390/electronics13183652
+  	[4] Ostaszewicz Dawid, Rogowski Krzysztof, Electronics (Switzerland), 2024, vol. 13, nr 18, s.1-13,. https://doi.org/10.3390/electronics13183652
    
     [5] Ostaszewicz D. Bachelor's Thesis in Electrical Engineering. Utilizing Genetic Algorithms for the Optimization of a Voltage step-down DC/DC Converter. Bialystok University of Technology. 2024.
     https://github.com/Apewona/Bachelor-s-Thesis-Dawid.-GA-step-down-DC-DC-Converter

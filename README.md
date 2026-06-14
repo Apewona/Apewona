@@ -55,6 +55,19 @@
    
     [6] Ostaszewicz D. Bachelor's Thesis in Electrical Engineering. Utilizing Genetic Algorithms for the Optimization of a Voltage step-down DC/DC Converter. Bialystok University of Technology. 2024.
     https://github.com/Apewona/Bachelor-s-Thesis-Dawid.-GA-step-down-DC-DC-Converter
+
+  <h2>Research Data</h2>
+  [1] Static_Gain_Fractional-Order_Linear_Quadratic_Regulation_Research_Toolbox
+
+  https://doi.org/10.5281/zenodo.20692975
+
+  [2] Digital Repository and Computational Framework for Switched Fractional-Order Control Systems
+
+  https://10.24427/2022/45/b/st7/03076_2
+
+  [3] Dataset for Lyapunov-Based Stabilization and Synthesis of Fractional- and Integer-Order Switched Systems
+
+  https://doi.org/10.24427/2022/45/b/st7/03076_1
 <!---
 Apewona/Apewona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

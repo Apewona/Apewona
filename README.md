@@ -40,6 +40,7 @@
     [1] Ostaszewicz D, Rogowski K. Synthesis of Optimal Static Gain Feedback Using a Fractional-Order Performance Index. Applied Sciences. 2026; 16(12):6017. 
     
     https://doi.org/10.3390/app16126017
+  
     [2] Ostaszewicz D. PhD thesis. Analysis of Delay Effects on the Dynamic Properties of Fractional-Order Control Systems - work in progress
     
     [3] Ostaszewicz D., "Stabilization Algorithm for Fractional Linear Second-Order Switching Systems," 2025 29th International Conference on Methods and Models in Automation and Robotics (MMAR), Miedzyzdroje, Poland, 2025, pp. 183-188,.
